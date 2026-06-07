@@ -1,0 +1,10 @@
+uploads/avatars/*
+uploads/patron_*
+!uploads/.gitkeep
+gg.txt
+jjjj.json
+*.log
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
