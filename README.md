@@ -5,6 +5,24 @@ Plateforme web communautaire pour créer, partager et découvrir des patrons pix
 **Application desktop associée :** [Pixnit (PyQt6)](https://github.com/Misskine/Pixnit)
 
 ---
+## Table des matières
+
+1. [Fonctionnalités](#fonctionnalités)
+2. [Documentation](#documentation)
+3. [Stack technique](#stack-technique)
+4. [Installation](#installation)
+   - [Prérequis](#prérequis)
+   - [Étapes](#étapes)
+5. [Structure du projet](#structure-du-projet)
+6. [Schéma de la base de données](#schéma-de-la-base-de-données)
+7. [Design & charte graphique](#design--charte-graphique)
+8. [Sécurité](#sécurité)
+9. [Format du fichier patron JSON](#format-du-fichier-patron-json)
+10. [Équipe — Mojo-Jojo de fil et de laine](#équipe--mojo-jojo-de-fil-et-de-laine)
+11. [Licence](#licence)
+12. [Liens utiles](#liens-utiles)
+
+---
 
 ## Fonctionnalités
 
@@ -14,7 +32,7 @@ Plateforme web communautaire pour créer, partager et découvrir des patrons pix
 - **Likes & commentaires** — interaction sociale autour des créations
 - **Recherche** — par titre, tag, ou créateur
 - **Téléchargements** — export PNG / JSON / PDF de chaque patron
-- **Métadonnées** — difficulté (★ à ★★★★), temps estimé, tags
+- **Métadonnées** — difficulté (débutant à expert), temps estimé, tags
 - **Design responsive** — compatible mobile, tablette, desktop
 
 ---
